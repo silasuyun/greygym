@@ -1,0 +1,110 @@
+@charset "utf-8";
+.logo{margin-left:100px; 
+      margin-right:75px; 
+      color:#FFF;
+	  font-size:25px;
+	font-weight:bold;
+}
+.yazi{
+	font-size:30px;
+	font-weight:bold;
+	margin-left:80px;
+}
+.kutu{
+	background-color:#fbec5d;
+	}
+.kyazi{
+	padding-top:30px;
+	padding-left:50px;
+	color:#000;
+	}
+.div{
+	background-color:#333;
+	margin-top:-16px;
+	}
+.footer{
+	background-color:#666;
+	height:200px;}
+.resim{
+	border-top-left-radius:5px;
+	border-top-right-radius:5px;
+	opacity:.6;
+	transition:opacity .8s;}
+.resim:hover{
+	opacity:2;
+	}
+	
+.cardlar{
+	background-color:#CCC;
+	}
+.isimler{
+		text-align:center;
+		font-family: 'New Tegomin', serif;
+		font-weight:bold;}
+.arka{
+	background-color:#999;}
+.resimSlider{
+	height:450px;
+	width:850px;
+	margin-left:250px;
+	padding-top:60px;}
+	.ok{
+		padding-left:300px;
+		
+		}
+.okiki{
+	padding-right:300px;}
+	
+#ad{
+	margin-top:20px;
+	margin-left:120px;
+	width:350px;}
+#mail{
+	margin-left:120px;
+	width:350px;
+	margin-top:20px;}
+#konu{
+	margin-left:120px;
+	margin-top:20px;
+	width:717px;}
+	
+.menu{
+	font-family:'New Tegomin', serif;
+		font-weight:bold;
+		font-size:20px;
+		margin-right:20px;}
+#mesaj{
+	margin-left:120px;
+	margin-top:20px;
+	width:717px;
+	height:70px;
+	}
+#gönder{
+	margin-left:120px;
+	margin-top:20px;}
+	
+
+
+.resimler>img{
+  -webkit-transition:all 1s ease;
+  -moz-transition:all 1s ease;
+  -o-transition:all 1s ease;
+  -ms-transition:all 1s ease;
+  transition:all 1s ease;
+
+}
+
+.resimler>img:hover{
+  height:250px;
+}
+
+.box img {border-radius: 6px;}
+
+.box:hover {
+    transform: scale(1.2);
+    background: black;
+    z-index: 2;
+}
+.icon{
+	font-size:15px;
+	padding-right:5px;}
